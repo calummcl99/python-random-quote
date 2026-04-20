@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {"name": "Checking Account", "type": "cash", "value": 10000},
+    {"name": "Savings Account", "type": "cash", "value": 25000},
+    {"name": "Apple Inc.", "type": "stock", "ticker": "AAPL", "shares": 10},
+    {"name": "S&P 500 ETF", "type": "stock", "ticker": "SPY", "shares": 5},
+    {"name": "Bitcoin", "type": "crypto", "coin_id": "bitcoin", "amount": 0.1},
+    {"name": "Ethereum", "type": "crypto", "coin_id": "ethereum", "amount": 2.0},
+    {"name": "Home Value", "type": "real_estate", "value": 450000}
+  ],
+  "liabilities": [
+    {"name": "Mortgage", "type": "mortgage", "balance": 320000},
+    {"name": "Car Loan", "type": "car_loan", "balance": 18000},
+    {"name": "Credit Card", "type": "credit_card", "balance": 2500}
+  ]
+}
